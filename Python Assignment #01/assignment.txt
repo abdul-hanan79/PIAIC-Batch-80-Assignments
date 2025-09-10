@@ -1,0 +1,43 @@
+Assignment for the week is :
+
+Calculate the final amount with compound interest (for 1 year, compounded annually)
+Principal = 5000, Rate = 8%, Time = 1 year
+(Formula: A = P × (1 + R/100)^T)
+(Use exponent operator **)
+
+Find the total surface area of a cylinder
+Radius = 7, Height = 10
+(Formula: TSA = 2πr² + 2πrh)
+
+Convert time into total seconds
+Hours = 2, Minutes = 46, Seconds = 40
+
+Split a restaurant bill including tip
+Total bill = 2750, Tip = 10%, Number of people = 5
+(Each person pays...?)
+
+
+Calculate weighted average marks
+Math = 80 (weight 3), Physics = 75 (weight 4), Chemistry = 70 (weight 3)
+(Formula: Weighted Avg = Σ(score × weight) / Σ(weights))
+
+Convert speed from km/hr to m/sec and then calculate time to cover a certain distance
+Speed = 72 km/h, Distance = 500 meters
+(Speed in m/s = speed × 5/18, then time = distance / speed)
+
+Calculate effective discount after two successive discounts
+Original price = 1000, First discount = 10%, Second discount = 5%
+(Apply one after another)
+
+Calculate the average of 5 numbers after increasing each by 10%
+Numbers: 100, 200, 300, 400, 500
+
+Convert a total number of seconds into hours, minutes, and seconds
+Total seconds = 10,000
+(Use integer division and modulus)
+
+Calculate the monthly EMI (Simple version)
+Principal = 1,00,000, Rate = 12% annual, Time = 1 year
+(Monthly EMI = P × R × (1 + R)^N / ((1 + R)^N – 1)) — simplified:
+use R = monthly interest rate (i.e., 0.01), N = total months
+You can give them a simplified expression to plug in and solve
