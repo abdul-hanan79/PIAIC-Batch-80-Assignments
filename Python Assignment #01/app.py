@@ -51,3 +51,8 @@ effective_discount=1000-final_price
 effective_discount_percentage=(effective_discount/1000)*100
 print("Answer 7: Effective Discount Percentage:", effective_discount_percentage, "%")
 
+
+
+# Answer 8
+average= ((100+100*0.1)+(200+200*0.1)+(300+300*0.1)+(400+400*0.1)+(500+500*0.1))/5
+
