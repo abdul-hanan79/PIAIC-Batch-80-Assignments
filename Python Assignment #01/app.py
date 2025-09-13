@@ -56,3 +56,10 @@ print("Answer 7: Effective Discount Percentage:", effective_discount_percentage,
 # Answer 8
 average= ((100+100*0.1)+(200+200*0.1)+(300+300*0.1)+(400+400*0.1)+(500+500*0.1))/5
 
+
+# Answer 9
+seconds=10000
+minuts=10000/60
+hours=minutes/60
+
+
