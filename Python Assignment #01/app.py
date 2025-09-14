@@ -51,3 +51,32 @@ effective_discount=1000-final_price
 effective_discount_percentage=(effective_discount/1000)*100
 print("Answer 7: Effective Discount Percentage:", effective_discount_percentage, "%")
 
+
+
+# Answer 8
+average= ((100+100*0.1)+(200+200*0.1)+(300+300*0.1)+(400+400*0.1)+(500+500*0.1))/5
+
+
+# Answer 9
+# Convert total seconds into hours, minutes, and seconds
+total_seconds = 10000
+
+hours = total_seconds // 3600
+minutes = (total_seconds % 3600) // 60
+seconds = total_seconds % 60
+
+print(f"Time: {hours} hours, {minutes} minutes, {seconds} seconds")
+
+# Answer 10
+P = 100000  # Principal
+annual_rate = 0.12  # 12% annual
+R = annual_rate / 12  # Monthly interest rate
+N = 12  # Time in months
+
+# EMI formula: P × R × (1 + R)^N / ((1 + R)^N – 1)
+EMI = P * R * ((1 + R) ** N) / (((1 + R) ** N) - 1)
+
+print(f"Monthly EMI: {EMI:.2f}")
+
+
+
