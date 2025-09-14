@@ -36,6 +36,13 @@ Convert a total number of seconds into hours, minutes, and seconds
 Total seconds = 10,000
 (Use integer division and modulus)
 
+
+
+
+
+
+
+
 Calculate the monthly EMI (Simple version)
 Principal = 1,00,000, Rate = 12% annual, Time = 1 year
 (Monthly EMI = P × R × (1 + R)^N / ((1 + R)^N – 1)) — simplified:
